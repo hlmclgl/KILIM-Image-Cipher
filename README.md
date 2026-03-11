@@ -3,6 +3,7 @@
 [![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/1178376518.svg)](https://doi.org/10.5281/zenodo.18946529)
+[![Status](https://img.shields.io/badge/Status-Research%20Prototype-orange.svg)]()
 
 Official Python implementation of **"KILIM: A Novel Lightweight and Lossless Spatiotemporal Image Encryption Algorithm for Resource-Constrained IoT Environments"**.
 
